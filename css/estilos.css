@@ -1,6 +1,6 @@
 body 
 {
-    color:chocolate;
+    color:darkblue;
     text-align:left;
     font-family: "Arial";
 
@@ -11,7 +11,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    font-size: 16px;
+    font-size: 16p;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
